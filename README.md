@@ -17,3 +17,9 @@ Here are some ideas to get you started:
 
 
 [![Omkar's Github Stats](https://github-readme-stats.vercel.app/api?username=omkar-ghotekar)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=omkar-ghotekar&show_icons=true)
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=omkar-ghotekar&show_icons=true&theme=dark)
