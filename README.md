@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on [LinkedIn!](https://www.linkedin.com/in/omkar-ghotekar-2a9a1219b/)
 - 🤔 I’m looking for help with Flutter Development
 - 💬 Ask me about Android and Web Development
-- 📫 How to reach me: Twitter - [!@GhotekarOmkar](https://twitter.com/GhotekarOmkar) , [!@Omkar Ghotekar](https://www.linkedin.com/in/omkar-ghotekar-2a9a1219b/)
+- 📫 How to reach me: Twitter - [!@GhotekarOmkar](https://twitter.com/GhotekarOmkar) , LinkedIn- [!@Omkar Ghotekar](https://www.linkedin.com/in/omkar-ghotekar-2a9a1219b/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like to watch Cartoons😄.
 
